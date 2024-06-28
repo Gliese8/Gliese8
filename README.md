@@ -27,7 +27,7 @@ I'm Olga
 
 🌱 **Currently expanding my knowledge in Data Science and AI Applications**
 
-😄 Fun fact: I've been chased by a shark (which appeared to be a big tuna) and survived 
+😄 **Fun fact: I've been chased by a shark (which appeared to be a big tuna) and survived**
 
 🤝 **Let's Connect!**  
 I'm best reached via email (check my LinkedIn profile for my full contact information). I'm always open to interesting projects and collaboration. If you have any questions or feedback, please do not hesitate to reach out to me!
