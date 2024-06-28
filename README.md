@@ -1,4 +1,4 @@
-## 👋 Hi | Hola | Olá | Hallo  👋
+## 👋 Hi there! 👋
 
 <!--
 **Gliese8/Gliese8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
