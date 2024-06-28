@@ -32,7 +32,7 @@ I'm Olga
 🤝 **Let's Connect!**  
 I'm best reached via email (check my LinkedIn profile for my full contact information). I'm always open to interesting projects and collaboration. If you have any questions or feedback, please do not hesitate to reach out to me!
 
-[LinkedIn] (https://www.linkedin.com/in/olga-beliai/)) | [Gmail](mailto:olgabelmin@gmail.com) | 
+
 
 ---
 
