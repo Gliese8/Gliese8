@@ -23,7 +23,7 @@ I'm Olga
 
 🔭 **Developing a software solution powered by AI for Melanoma detection and Triaging** 
 
-⚡ **Born and raised in Belarus.** Worked on a cruise line at sea and travelled across Carribbeans, Bahamas, Baja Mexico & Mexican Riviera out of US ports.
+⚡ **Ocean lover.** Worked on a cruise line at sea and travelled across Carribbeans, Bahamas, Baja Mexico & Mexican Riviera out of US ports.
 
 🌱 **Currently expanding my knowledge in Data Science and AI Applications**
 
